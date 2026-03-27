@@ -66,7 +66,3 @@ Based on 10,000 simulated paths for a 1-month horizon:
 
 ---
 
-## Future Work (Phase 3)
-*   **Advanced ML Linking:** Replace Logistic Regression with **XGBoost/LightGBM** to capture non-linear risk interactions.
-*   **Stochastic LGD:** Move from constant Loss Given Default (LGD) to simulated recovery models.
-*   **Real-Time API:** Wrap the simulation engine in a FastAPI/Flask application for real-time risk desk updates.
