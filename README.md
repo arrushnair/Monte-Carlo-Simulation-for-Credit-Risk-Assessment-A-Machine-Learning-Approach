@@ -1,4 +1,4 @@
-# ML-Driven Real-Time Credit Risk Management
+# Monte Carlo Simulation for Credit Risk Assessment: A Machine Learning Approach
 
 ## Overview
 This project transitions credit risk management from static, backward-looking analysis to a **dynamic, machine learning-driven simulation framework**. 
