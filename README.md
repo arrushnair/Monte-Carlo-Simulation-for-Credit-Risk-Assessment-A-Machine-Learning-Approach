@@ -30,8 +30,6 @@ Before the simulation, a **Logistic Regression** "Linking Model" was trained to 
 | **1 (Default)** | 0.00 | 0.50 | 0.01 | 2 |
 | **Accuracy** | | | **0.78** | 1200 |
 
-> [!NOTE]
-> The **50% Recall** on defaults (Class 1) is a strategic choice. In credit risk, we prefer high sensitivity (catching defaults) even at the cost of precision (false positives), as the cost of a missed default is significantly higher than a rejected application.
 
 ### Simulation Methodology:
 1.  **Macroeconomic Forecasting:** Used **Geometric Brownian Motion (GBM)** to model the stochastic "walk" of Volatility and Interest Rates.
