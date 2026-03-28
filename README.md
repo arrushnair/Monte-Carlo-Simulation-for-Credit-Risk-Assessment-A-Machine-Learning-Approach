@@ -11,7 +11,7 @@ By combining historical credit data with stochastic macroeconomic modeling, the 
 **Objective:** Identify the key historical drivers of default and understand the relationships between macroeconomic variables and counterparty risk.
 
 ### Key Activities:
-*   **Data Cleaning:** Handled missing values and standardized formats for a portfolio focused on the Indian market.
+*   **Data Cleaning:** Handled missing values and standardized formats for a portfolio focused on the Indian market. Dataset is extracted from Bloomberg.
 *   **Feature Engineering:** Mapped categorical credit ratings to numerical scales and processed date-series for macroeconomic factors.
 *   **Correlation Analysis:** Identified that `Volatility_Index` and `Interest_Rate (%)` are the primary systemic drivers influencing counterparty defaults.
 
